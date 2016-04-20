@@ -5,6 +5,8 @@
 #include<vector>
 #include "Menu.h"
 #include "User.h"
+#include "Menu.cpp"
+#include "User.cpp"
 using namespace std;
 fstream finout;
 
